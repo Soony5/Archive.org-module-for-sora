@@ -2,7 +2,7 @@
   "sourceName": "Archive.org",
   "iconUrl": "https://archive.org/images/logomark.gif",
   "author": {
-    "name": "tuo-nome",
+    "name": "Soony5",
     "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQPQ1qIiALbM3xDWGsuJzu6ItaQGwb9ICRRw&s"
   },
   "version": "1.0.0",
@@ -11,7 +11,7 @@
   "quality": "720p",
   "baseUrl": "https://archive.org",
   "searchBaseUrl": "https://archive.org/search?query=%s&and[]=mediatype%3A%22movies%22",
-  "scriptUrl": "https://raw.githubusercontent.com/TUO-USERNAME/TUO-REPO/main/archiveorg.js",
+  "scriptUrl": "https://raw.githubusercontent.com/Soony5/Archive.org-module-for-sora/refs/heads/main/archive.org-sora.js",
   "asyncJS": true,
   "type": "anime",
   "supportsMojuru": true,
