@@ -1,0 +1,21 @@
+{
+  "sourceName": "Archive.org",
+  "iconUrl": "https://archive.org/images/logomark.gif",
+  "author": {
+    "name": "tuo-nome",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQPQ1qIiALbM3xDWGsuJzu6ItaQGwb9ICRRw&s"
+  },
+  "version": "1.0.0",
+  "language": "Italian",
+  "streamType": "mp4",
+  "quality": "720p",
+  "baseUrl": "https://archive.org",
+  "searchBaseUrl": "https://archive.org/search?query=%s&and[]=mediatype%3A%22movies%22",
+  "scriptUrl": "https://raw.githubusercontent.com/TUO-USERNAME/TUO-REPO/main/archiveorg.js",
+  "asyncJS": true,
+  "type": "anime",
+  "supportsMojuru": true,
+  "supportsDartotsu": true,
+  "supportsSora": true,
+  "supportsLuna": true
+}
